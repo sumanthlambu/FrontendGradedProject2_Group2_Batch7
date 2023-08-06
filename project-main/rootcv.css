@@ -1,0 +1,30 @@
+input[type=text],
+input[type=password] {
+  width: 100%;
+  padding: 19px 23px;
+  margin: 18px 0px;
+  display: inline-block;
+  border: 1px solid #686464;
+  box-sizing: border-box;
+  border-radius: 0.25rem;
+}
+
+/* Set a style for all buttons */
+button {
+background-color: yellowgreen;
+    color: black;
+    padding: 20px 1px;
+    margin: 27px 170px;
+    border: 1px;
+    cursor: pointer;
+    width: 35%;
+    border-radius: 0.25rem;
+
+button:hover {
+  opacity: 0.8;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+}
